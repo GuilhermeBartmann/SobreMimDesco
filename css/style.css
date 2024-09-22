@@ -1,0 +1,47 @@
+#textoNav {
+    color: #18d100;
+    font: 3em 'bebas neue', sans-serif;
+}
+
+#textoMain {
+    color: #000000;
+    font: 2em 'bebas neue', sans-serif;
+}
+
+#textoSobre {
+    color: #000000;
+    font: 2em 'bebas neue', sans-serif;
+}
+
+#textoTitulo {
+    font: 5em 'bebas neue', sans-serif;
+}
+
+#textoNavBar {
+    color: #18d100;
+    border: 1px solid #18d100;
+    border-radius: 10%;
+    font: 1.5em 'bebas neue', sans-serif;
+}
+
+#logoGui {
+    width: 5.5rem;
+    border-radius: 70%;
+}
+
+#fotoPessoal {
+    width: 20rem;
+    border-radius: 70%;
+
+}
+
+#Foto {
+    padding: 1rem;
+}
+
+#Cards {
+    padding: 1.5rem;
+    padding-top: 10rem;
+    font: 1.5em 'bebas neue', sans-serif;
+    color: #000000;
+}
